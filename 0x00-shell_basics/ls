@@ -1,0 +1,36 @@
+.:
+total 68
+drwxr-xr-x 2 0 0 4096 Sep  2 08:08 .
+drwxr-xr-x 5 0 0   90 Sep  1 18:31 ..
+-rwxr--r-- 1 0 0   16 Aug 31 15:15 0-current_working_directory
+-rwxr--r-- 1 0 0   17 Aug 31 18:28 10-back
+-rwxr--r-- 1 0 0   31 Sep  2 07:55 11-lists
+-rwxr--r-- 1 0 0   31 Aug 31 18:51 12-file_type
+-rwxr--r-- 1 0 0   34 Aug 31 19:10 13-symbolic_link
+-rwxr--r-- 1 0 0   28 Aug 31 19:22 14-copy_html
+-rwxr--r-- 1 0 0   15 Aug 31 15:22 1-listit
+-rwxr--r-- 1 0 0   15 Aug 31 15:50 2-bring_me_home
+-rwxr--r-- 1 0 0   18 Aug 31 15:53 3-listfiles
+-rwxr--r-- 1 0 0   19 Aug 31 15:59 4-listmorefiles
+-rwxr--r-- 1 0 0   20 Aug 31 17:04 5-listfilesdigitonly
+-rwxr--r-- 1 0 0   42 Aug 31 17:20 6-firstdirectory
+-rwxr--r-- 1 0 0   50 Aug 31 17:39 7-movethatfile
+-rwxr--r-- 1 0 0   45 Aug 31 17:46 8-firstdelete
+-rwxr--r-- 1 0 0   42 Aug 31 18:21 9-firstdirdeletion
+lrwxrwxrwx 1 0 0    7 Aug 31 19:12 __ls__ -> /bin/ls
+-rw-r--r-- 1 0 0    0 Sep  2 08:08 ls
+-rw-r--r-- 1 0 0 1884 Aug 31 19:23 README.md
+
+..:
+total 8
+drwxr-xr-x 5 0 0   90 Sep  1 18:31 .
+drwxr-xr-x 1 0 0  155 Aug 31 14:52 ..
+drwxr-xr-x 2 0 0 4096 Sep  2 08:08 0x00-shell_basics
+drwxr-xr-x 2 0 0  332 Sep  1 20:02 0x01-shell_permissions
+drwxr-xr-x 8 0 0  166 Sep  2 07:56 .git
+-rw-r--r-- 1 0 0   16 Aug 31 14:54 README.md
+
+/boot/:
+total 0
+drwxr-xr-x 2 0 0   6 Apr 15  2020 .
+drwxr-xr-x 1 0 0 155 Aug 31 14:52 ..
